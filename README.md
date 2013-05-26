@@ -1,6 +1,6 @@
 gps2gpx
 =======
-Convert gps files from [getgps](http://github.com/janten/getgps) to gpx format.
+Convert gps files from [getgps](http://github.com/janten/getgps) to GPX format.
 
 Usage
 =====
